@@ -15,6 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/fido-alliance/"
   },
+  "scripts": {
+    "start": "node app.js"
+  },
   "private": true,
   "author": "Yuriy Ackermann <yuriy@fidoalliance.org> (https://jeman.de/)",
   "bugs": {
